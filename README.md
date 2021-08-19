@@ -8,7 +8,7 @@ Creating beautiful chart using FL Chart Package
 
 
 ### Tutorial Series
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started to create chart on flutter :
 
 - Line Chart : [Creating Simple Line Chart](https://flutter.dev/docs/get-started/codelab)
 - Bar Chart : Coming Soon
