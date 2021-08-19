@@ -4,7 +4,7 @@ Creating beautiful chart using FL Chart Package
 
 ### App Preview
 
-<img src='img/Screenshot_1628586896.png'>
+<img src='lib/img/Screenshot_1628586896.png'>
 
 
 ### Tutorial Series
