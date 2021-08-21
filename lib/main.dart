@@ -1,9 +1,8 @@
+import 'package:fl_chart_tutorial/chart/bar_chart.dart';
 import 'package:fl_chart_tutorial/chart/line_chart.dart';
+import 'package:fl_chart_tutorial/chart/pie_chart.dart';
 import 'package:fl_chart_tutorial/chart_container.dart';
 import 'package:flutter/material.dart';
-
-import 'chart/bar_chart.dart';
-import 'chart/pie_chart.dart';
 
 void main() {
   runApp(MyApp());
