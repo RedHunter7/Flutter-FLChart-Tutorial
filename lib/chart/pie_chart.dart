@@ -7,7 +7,9 @@ class PieChartContent extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return PieChart(PieChartData(
-      sections: pieChartSectionData
+      sectionsSpace: 0,
+      centerSpaceRadius: 0,
+      sections: getSectionData(MediaQuery.of(context).size.width)
     ));
   }
 }

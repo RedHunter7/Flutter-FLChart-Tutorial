@@ -19,7 +19,7 @@ class ChartContainer extends StatelessWidget {
       child: Container(
         width: MediaQuery.of(context).size.width * 0.95,
         height: MediaQuery.of(context).size.width * 0.95 * 0.65,
-        padding: EdgeInsets.fromLTRB(0, 10, 20, 10),
+        padding: EdgeInsets.fromLTRB(10, 10, 20, 10),
         decoration: BoxDecoration(
           color: color,
           borderRadius: BorderRadius.circular(20),
