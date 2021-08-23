@@ -10,7 +10,7 @@ List<PieChartSectionData> getSectionData(double screenWidth) {
       value: 20,
       title: '20%',
       radius: radius,
-      color: Color(0xfffba834),
+      color: Color(0xffed733f),
     ),
     PieChartSectionData(
       value: 35,
