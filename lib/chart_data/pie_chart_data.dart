@@ -3,7 +3,6 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 
 List<PieChartSectionData> getSectionData(double screenWidth) {
-  print(screenWidth);
   double radius = screenWidth / 4.44;
 
   return [
